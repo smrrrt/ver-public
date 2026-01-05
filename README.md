@@ -1,3 +1,5 @@
+![Ver Logo](/VerLogo.svg)
+
 Ver Browser
 ===========
 
